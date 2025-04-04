@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download My CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nBoston University\nM.S. in Applied Business Analytics\n2024 – 2026 (expected)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming: Python, R, SQL\n\nTools: Spark, AWS, Git, Tableau, Excel\n\nLibraries: scikit-learn, pandas, matplotlib, Plotly"
+  },
+  {
+    "objectID": "Hanaqyt/about.html",
+    "href": "Hanaqyt/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Hello!\nWelcome to my Quarto website.\nThis website showcases my academic and professional journey in Applied Business Analytics. Use the navigation bar above to learn more about me, view my projects, download my resume, or get in touch. Thanks for visiting!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to get in touch!\n\nEmail: tongbb@bu.edu\nGitHub: github.com/Hanaqyt"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Deployed Spark on AWS EC2 to analyze job posting data and visualize salary distributions.\nTools: PySpark, AWS EC2, Plotly, pandas\nGitHub: Project Repository"
+  },
+  {
+    "objectID": "projects.html#job-posting-analysis-on-aws",
+    "href": "projects.html#job-posting-analysis-on-aws",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Deployed Spark on AWS EC2 to analyze job posting data and visualize salary distributions.\nTools: PySpark, AWS EC2, Plotly, pandas\nGitHub: Project Repository"
+  },
+  {
+    "objectID": "Hanaqyt/index.html",
+    "href": "Hanaqyt/index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Hello, World!\nWelcome to my Quarto website."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi! I’m currently pursuing a Master’s degree in Applied Business Analytics at Boston University. I am passionate about machine learning, data analytics, and building impactful data-driven solutions.\nMy interests lie in solving real-world problems through predictive modeling, data visualization, and automation. I enjoy exploring new technologies and continuously improving my technical and analytical skills.\nThis website serves as a portfolio to showcase my academic and personal projects, technical skills, and professional background."
+  }
+]
