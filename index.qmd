@@ -1,0 +1,14 @@
+---
+title: "Welcome to My Website"
+author: "Yutong Qian"
+date: "2025-02-02"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+# Hello!  
+Welcome to my Quarto website.  
+This website showcases my academic and professional journey in Applied Business Analytics.
+Use the navigation bar above to learn more about me, view my projects, download my resume, or get in touch.
+Thanks for visiting!

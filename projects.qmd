@@ -1,0 +1,8 @@
+---
+title: "Projects"
+---
+## Job Posting Analysis on AWS
+
+- Description: Deployed Spark on AWS EC2 to analyze job posting data and visualize salary distributions.
+- Tools: PySpark, AWS EC2, Plotly, pandas
+- GitHub: [Project Repository](https://github.com/Hanaqyt/lab05-Hana-qyt)

@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+Hi! I'm currently pursuing a Master's degree in Applied Business Analytics at Boston University. I am passionate about machine learning, data analytics, and building impactful data-driven solutions.
+
+My interests lie in solving real-world problems through predictive modeling, data visualization, and automation. I enjoy exploring new technologies and continuously improving my technical and analytical skills.
+
+This website serves as a portfolio to showcase my academic and personal projects, technical skills, and professional background.
+
+

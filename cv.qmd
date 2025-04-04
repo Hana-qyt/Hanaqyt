@@ -1,0 +1,20 @@
+---
+title: "CV"
+---
+
+[Download My CV (PDF)](Yutong CV.pdf)
+---
+
+## Education
+
+**Boston University**  
+M.S. in Applied Business Analytics  
+2024 – 2026 (expected)
+
+---
+
+## Skills
+
+- Programming: Python, R, SQL  
+- Tools: Spark, AWS, Git, Tableau, Excel  
+- Libraries: scikit-learn, pandas, matplotlib, Plotly
